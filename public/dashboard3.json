@@ -1,0 +1,69 @@
+[
+    {
+        "trend" : [
+            {
+                "RA": 53,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 2.4
+            },
+            {
+                "RA": 53,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 3.4
+            },
+            {
+                "RA": 53,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 4.4
+            },
+            {
+                "RA": 53,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 1.4
+            },
+            {
+                "RA": 53,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 2.4
+            },
+            {
+                "RA": 51,
+                "studentname": 263,
+                "Class": "Geometry and topology",
+                "RV": 6.4
+            }
+        ],
+        "trendgraph" : [312, 234, 177],
+        "recentreports": [
+            {
+                "reportval": "29250100905",
+                "reporttxt": "Education for All in India: 2014, Review"
+            },
+            {
+                "reportval": "29250100905",
+                "reporttxt": "Education for All in India: 2014, Review"
+            },
+            {
+                "reportval": "29250100905",
+                "reporttxt": "Education for All in India: 2014, Review"
+            },
+            {
+                "reportval": "29250100905",
+                "reporttxt": "Education for All in India: 2014, Review"
+            },
+            {
+                "reportval": "29250100905",
+                "reporttxt": "Education for All in India: 2014, Review"
+            },
+            {
+                "reportval": "29250100909",
+                "reporttxt": "Education for All in India: 2014, ReviewR"
+            }
+        ]
+    }
+]

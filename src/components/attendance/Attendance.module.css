@@ -1,0 +1,151 @@
+.attdbg {
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 5px 5px 10px 0 rgba(51, 51, 51, 0.05);
+    padding: 18px;
+}
+
+.sessionbox {
+    background-color: #FC8802;
+    border-radius: 4px;
+    width: 160px;
+    height: 86px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sessiontxt {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.studiobox {
+    border: 1px solid #979797;
+    border-radius: 4px;
+    width: 100%;
+    height: 86px;
+    display: flex;
+    margin: 15px 0px 15px 0px;
+}
+
+.classroombox {
+    border: 1px solid #979797;
+    border-radius: 4px;
+    width: 100%;
+    height: 86px;
+    display: flex;
+    margin: 15px 0px 15px 0px;
+}
+
+
+.studiotxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.maintxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.subtxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.verticalcenteralign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.verticalcenteralignrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.table1 {
+    width: 88%;
+}
+.table2 {
+    width: 97%;
+}
+.table3 {
+    width: 91%;
+}
+
+table thead > tr > th, 
+table tbody > tr > td {
+    height: 40px;
+    text-align: center;
+    color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+}
+
+.table1 > thead > tr, .table2 > thead > tr, .table3 > thead > tr {
+    background-color: rgba(252,136,2, 0.2);
+  border-radius: 4px;
+}
+
+.table1 tr:nth-child(even), .table2 tr:nth-child(even), .table3 tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.049);
+    border-radius: 4px;
+}
+
+.rowtxt {
+    color: #000000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  line-height: 14px;
+  opacity: 0.5;
+  margin-left: 0;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.table thead th {
+    border-bottom: none;
+}
+
+.table th {
+    border-top: none;
+}
+
+.attchart {
+    color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: left;
+}
+
+.attsubchart {
+    color: #000000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.25px;
+  line-height: 14px;
+  opacity: 0.699999988079071;
+  text-align: left;
+}

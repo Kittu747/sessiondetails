@@ -1,0 +1,96 @@
+[
+    {
+        "dataone" : [
+            {
+                "relayedval": 53,
+                "relayedtxt": "Relayed"
+            },
+            {
+                "relayedval": 64,
+                "relayedtxt": "Attended"
+            },
+            {
+                "relayedval": 11,
+                "relayedtxt": "Questions"
+            }
+        ],
+        "datatwo" : [
+            {
+                "relayedval": 31,
+                "relayedtxt": "Conducted"
+            },
+            {
+                "relayedval": 46,
+                "relayedtxt": "Questions"
+            }
+        ]
+    },
+    {
+        "classtable" : [
+            {
+                "class" : "9th",
+                "subject" : "English"
+            },
+            {
+                "class" : "6th",
+                "subject" : "Science"
+            },
+            {
+                "class" : "9th",
+                "subject" : "Maths"
+            },
+            {
+                "class" : "9th",
+                "subject" : "English"
+            }
+        ],
+        "studiotable" : [
+            {
+                "relayed" : 43,
+                "attended" : 12,
+                "questions" : 94
+            },
+            {
+                "relayed" : 13,
+                "attended" : 52,
+                "questions" : 4
+            },
+            {
+                "relayed" : 23,
+                "attended" : 43,
+                "questions" : 84
+            },
+            {
+                "relayed" : 73,
+                "attended" : 12,
+                "questions" : 32
+            }
+        ],
+        "classroomtable" : [
+            {
+                "conducted" : 23,
+                "questions" : 11
+            },
+            {
+                "conducted" : 44,
+                "questions" : 84
+            },
+            {
+                "conducted" : 64,
+                "questions" : 32
+            },
+            {
+                "conducted" : 76,
+                "questions" : 21
+            }
+        ]
+    },
+    {
+        "stackedchart" : [
+            {
+                "chartdatax": [9, 8, 2, 7, 3, 5, 6, 7, 9, 6, 5, 6],
+                "chartdatay": [4, 5, 4, 7, 3, 7, 4, 6, 8, 5, 2, 9]
+            }
+        ]
+    }
+]

@@ -1,0 +1,319 @@
+
+.verticalcenteralign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  
+.verticalcenteralignrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.verticalstart {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.verticalstartrow {
+    display: flex;
+    flex-direction: row;
+}
+
+.dynamictxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: left;
+}
+
+.dysubtxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    display: inline-block;
+    margin-left: 10px;
+    opacity: 0.5;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.sessionbox {
+    background-color: #E8E8E8;
+    border-radius: 2px;
+    width: 60px;
+    height: 24px;
+    color: #444444;
+    margin: 10px 12px 0px 0px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.RAtxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    opacity: 0.699999988079071;
+}
+
+.RAvaltxt {
+    color: #0FC155;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.RAsubtxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+}
+
+.studiosession {
+    width: 78.8%;
+}
+
+.RAbox {
+    background-color: rgba(15, 193, 85, 0.2);
+  border-radius: 4px;
+  width: 100px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.performancerabox {
+    width: 12%;
+  }
+  
+.performanceboxes {
+    width: 47%;
+}
+  
+.performancescroll {
+    width: 8%;
+}
+
+.percent {
+    color: #6E6E6E;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 13px;
+    opacity: 0.800000011920929;
+    text-align: left;
+}
+
+.subject {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+}
+
+.stxt {
+    display: inline-block;
+    color: #2A2A2A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: left;
+    margin: 0px 10px 0px 10px;
+}
+
+.chartwidth {
+    width: 10%;
+    margin-left: 4px;
+}
+
+.alpha {
+    background-color: #00237B;
+    color: white;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    margin-left: -13px;
+}
+
+.Qtxt {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.Qbg {
+    background-color: #00237B;
+    color: white;
+    padding: 16px;
+    width: 56px;
+}
+
+.alphatxt {
+    margin-left: -18px;
+    font-size: 14px;
+    color: #00237B;
+}
+
+.questiontxt {
+    background-color: #F2F6FF;
+    border-radius: 2px;
+    width: 110px;
+    height: 24px;
+    color: #00237B;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.authortxt {
+    color: #4C7DF0;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14px;
+    opacity: 0.699999988079071;
+    text-align: left;
+    text-decoration: underline;
+    padding: 0px 5px 0px 5px;
+}
+
+.anstxtg {
+    color: #0FC155;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0.800000011920929;
+}
+
+.opttxtg {
+    background-color: rgba(15, 193, 85, 0.05);
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  color: #0FC155;
+}
+
+.anstxtb {
+    color: #4C7DF0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0.800000011920929;
+}
+
+.opttxtb {
+    background-color: rgba(76, 125, 240, 0.05);
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  color: #4C7DF0;
+}
+
+.chartanswer {
+    color: #6E6E6E;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.43px;
+}
+
+.tabhead {
+    color: #444444;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 12px;
+}
+
+.hrclass {
+    width: 100%;
+    border: 0.5px dashed #979797;
+    opacity: 0.2;
+    margin: 10px 0px 5px 0px;
+}
+
+.tabpic {
+    background-size: 100%;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.boxes {
+    display: inline-block;
+    background-color: #00A13D;
+  border-radius: 2px;
+  opacity: 0.800000011920929;
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
+
+.roll {
+    color: #444444;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.rollname {
+    color: #444444;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.RAsubtxt {
+    color: #444444;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 13px;
+    opacity: 0.5;
+}
+
+.RAsubval {
+    color: #444444;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 13px;
+}
+
+@media screen and (max-width: 768px) {
+    .performancerabox {
+        width: 50%;
+    }  
+    .performanceboxes {
+        width: 50%;
+    } 
+    .performancescroll {
+        width: 30%;
+    }
+    .studiosession {
+        width: 100%;
+    }
+    
+}

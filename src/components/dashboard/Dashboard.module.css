@@ -1,0 +1,179 @@
+
+
+.verticalcenteralign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.verticalcenteralignrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+
+.studiotxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+.maintxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.subtxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.theadtxtD {
+  color: rgba( 0, 0, 0, 0.5);
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.tbodytxt {
+  color: #4A4545;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: center;
+}
+
+.subtbodytxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  opacity: 0.800000011920929;
+  text-align: center;
+  display: grid;
+}
+
+.percent {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  opacity: 0.800000011920929;
+}
+
+.subject {
+  color: #9F9F9F;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+}
+
+.rabgred {
+  color: #E50E33;
+  background-color: rgba(90, 5, 20, 0.1);
+  border-radius: 4px;
+  padding: 5px 10px 5px 10px;
+}
+
+.rabgblue {
+  color: #4C7DF0;
+  background-color: rgba(76, 125, 240, 0.1);
+  border-radius: 4px;
+  padding: 5px 10px 5px 10px;
+}
+
+.rabgyellow {
+  color: #F6C400;
+  background-color: rgba(246, 196, 0, 0.1);
+  border-radius: 4px;
+  padding: 5px 10px 5px 10px;
+}
+
+.rabggreen {
+  color: #0FC155;
+  background-color: rgb(15, 193, 85, 0.1);
+  border-radius: 4px;
+  padding: 5px 10px 5px 10px;
+}
+
+.pieboxtext {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  opacity: 0.5; 
+  margin: 20px 0px 19px 16px;
+}
+
+.performancerabox {
+  width: 10%;
+}
+
+.performanceboxes {
+  width: 47%;
+}
+
+.performancescroll {
+  width: 6%;
+}
+
+.pietxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: -0.94px;
+  line-height: 36px;
+}
+
+.piesubtxt {
+  color: #6A6A6A;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 19px;
+}
+
+.stdbx {
+  width: 19%;
+}
+
+.clsbx {
+  width: 22%;
+}
+
+.tbodytxtR {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+  width: 25%;
+  margin-left: 10px;
+}
+
+.tbodytxtRR {
+  color: #4A4545;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+  width: 75%;
+}

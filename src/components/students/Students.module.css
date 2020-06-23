@@ -1,0 +1,128 @@
+
+  .theadtxtD {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 14px;
+    opacity: 0.800000011920929;
+    text-align: center;
+  }
+
+  .tbodytxt {
+    color: #4A4545;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: center;
+  }
+
+  .imgdp {
+    border-radius: 100%;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.1);
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+  }
+
+
+  .rabgred {
+    color: #E50E33;
+    background-color: rgba(90, 5, 20, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabgblue {
+    color: #4C7DF0;
+    background-color: rgba(76, 125, 240, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabgyellow {
+    color: #F6C400;
+    background-color: rgba(246, 196, 0, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabggreen {
+    color: #0FC155;
+    background-color: rgb(15, 193, 85, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+.searchicon {
+    background-color: #F6F6F6;
+    padding: 0.5%;
+    margin-left: 2%;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.dropdownclass {
+    width: 73%;
+  }
+  
+  .calclass {
+    width: 26%;
+  }
+
+.ddrpone {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 140px;
+    font-weight: 500;
+    margin: 0px 5px 0px 10px;
+    padding: 0px 0px 1px 5px;
+    font-size: 13px;
+    color: #515151;
+}
+
+.ddrptwo {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 130px;
+    margin: 0px 5px 0px 5px;
+    font-weight: 500;
+    padding: 0px 0px 1px 5px;
+    font-size: 13px;
+    color: #515151;
+}
+
+.ddrpthree {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 150px;
+    margin: 0px 5px 0px 5px;
+    font-weight: 500;
+    padding: 0px 0px 1px 5px;
+    font-size: 13px;
+    color: #515151;
+}
+
+.ddrpfour {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 130px;
+    margin: 0px 5px 0px 5px;
+    font-weight: 500;
+    padding: 0px 0px 1px 5px;
+    font-size: 13px;
+    color: #515151;
+}
+
+@media screen and (max-width: 768px) {
+  .dropdownclass {
+    width: 100%;
+  }
+  
+  .calclass {
+    width: 100%;
+  }
+}
+

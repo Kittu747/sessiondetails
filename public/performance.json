@@ -1,0 +1,29 @@
+[
+    {
+        "subjectcode": "EN",
+        "Subject": "English",
+        "Class": "8th",
+        "Questions": "Geometry and topology",
+        "Score": 1.1,
+        "RV": 2.2,
+        "Grank": "25/50"
+    },
+    {
+        "subjectcode": "SC",
+        "Subject": "Science",
+        "Class": "8th",
+        "Questions": "Geometry",
+        "Score": 3.3,
+        "RV": 6.2,
+        "Grank": "43/50"
+    },
+    {
+        "subjectcode": "MA",
+        "Subject": "Maths",
+        "Class": "8th",
+        "Questions": "topology",
+        "Score": 4.8,
+        "RV": 1.2,
+        "Grank": "45/51"
+    }
+]

@@ -1,0 +1,75 @@
+
+.ddrpone {
+  border: 0.5px solid lightgrey;
+  border-radius: 25px;
+  width: 140px;
+  font-weight: 500;
+  margin: 0px 5px 0px 10px;
+  padding-bottom: 2px;
+  font-size: 13px;
+  color: #515151;
+}
+
+  .theadtxtD {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 14px;
+    opacity: 0.800000011920929;
+    text-align: center;
+  }
+
+  .tbodytxt {
+    color: #4A4545;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: center;
+  }
+
+  .textdp {
+    background-color: #838B23;
+    border-radius: 100%;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.1);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-right: 10px;
+  }
+
+  .rabgred {
+    color: #E50E33;
+    background-color: rgba(90, 5, 20, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabgblue {
+    color: #4C7DF0;
+    background-color: rgba(76, 125, 240, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabgyellow {
+    color: #F6C400;
+    background-color: rgba(246, 196, 0, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .rabggreen {
+    color: #0FC155;
+    background-color: rgb(15, 193, 85, 0.1);
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+  }
+  

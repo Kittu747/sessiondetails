@@ -1,0 +1,486 @@
+
+.verticalcenteralign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .verticalcenteralignrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+
+.verticalcenteralignstd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verticalstart {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.percent {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    opacity: 0.800000011920929;
+  }
+  
+  .subject {
+    color: #9F9F9F;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+  }
+
+
+  .performanceboxes {
+    width: 46%;
+  }
+  
+  .performancescroll {
+    width: 7%;
+  }
+
+.dropdownclass {
+  width: 73%;
+}
+
+.calclass {
+  width: 26%;
+}
+
+
+.namestd {
+  background-color: #C3C3C3;
+  border-radius: 4px;
+  width: 120px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 5px;
+  align-items: center;
+}
+
+.skillbg {
+  background-color: #C3C3C3;
+  border-radius: 4px;
+  width: 238px;
+  height: 25px;
+  padding: 5px;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.skilltxt {
+  color: #000000;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+text-align: left;
+}
+
+.raclass {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.RNKclass {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+
+.RAtxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 24px;
+  margin: 3%;
+  font-weight: 500;
+  line-height: 29px;
+}
+
+.RAguagetxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  opacity: 0.800000011920929;
+  text-align: left;
+}
+
+.RAguagesubtxt {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+}
+
+.ranktxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.grpavg {
+  color: #565656;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  opacity: 0.5;
+  text-align: left;
+}
+
+.grpavgval {
+  color: #696969;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+}
+
+.RNKval {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  opacity: 0.800000011920929;
+  text-align: left;
+  margin: 3%;
+}
+
+.RNKavg {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  text-align: left;
+}
+
+.RNKsubavg {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  opacity: 0.5;
+  text-align: left;
+}
+
+.scorelabel {
+  display: flex;
+  width: 90%;
+}
+
+.scorelabeltxt {
+  display: flex;
+  width: 90%;
+  border: 0.5px solid grey;
+  border-radius: 25px;
+  padding: 0px 5px 0px 5px;
+}
+
+.scoreone {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  width: 18%;
+}
+
+.scoretwo {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  text-align: left;
+  width: 18%;
+}
+
+.scorethree {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  text-align: left;
+  width: 23%;
+}
+
+.scorefour {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  text-align: left;
+  width: 18%;
+}
+
+.scorefive {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  text-align: left;
+  width: 23%;
+}
+
+
+.scoreonetxt {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  width: 18%;
+}
+
+.scoretwotxt {
+  color: #0FC155;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  width: 18%;
+}
+
+.scorethreetxt {
+  color: #4C7DF0;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  width: 23%;
+}
+
+.scorefourtxt {
+  color: #E50E33;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  width: 18%;
+}
+
+.scorefivetxt {
+  color: #979797;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  width: 23%;
+}
+
+
+.stdsection {
+    background-color: #FFFFFF;
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.1);
+    margin: 0;
+}
+
+.proinfo {
+    background-color: #C8661E;
+    border: 6px solid #ECECEC;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: 17px;
+}
+
+.proinfotxt {
+    color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 500;
+  letter-spacing: 0.7px;
+  line-height: 34px;
+}
+
+.skillbg {
+    background-color: #C3C3C3;
+    border-radius: 4px;
+    width: 238px;
+    height: 30px;
+}
+
+.skilltxt {
+    color: #000000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  text-align: left;
+}
+
+.ddrpone {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 150px;
+    margin: 0px 5px 0px 10px;
+    padding-bottom: 2px;
+}
+
+.ddrptwo {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 150px;
+    margin: 0px 5px 0px 5px;
+    padding-bottom: 2px;
+}
+
+.ddrpthree {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 200px;
+    margin: 0px 5px 0px 5px;
+    padding-bottom: 2px;
+}
+
+.ddrpfour {
+    border: 0.5px solid lightgrey;
+    border-radius: 25px;
+    width: 150px;
+    margin: 0px 5px 0px 5px;
+    padding-bottom: 2px;
+}
+
+.Dyntxt {
+    color: #3B3B3B;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  margin: 20px 5px 20px 5px;
+}
+
+.barone {
+    height: 12px;
+    width: 90%;
+    border: 0.5px solid gray;
+    border-radius: 25px;
+    display: flex;
+}
+
+.bargreen {
+    background-color: green;
+    width: 25%;
+    height: 12px;
+    border-radius: 25px 0px 0px 25px;
+}
+
+.barblue {
+    background-color: blue;
+    width: 25%;
+    height: 12px;
+}
+
+.barred {
+    background-color: red;
+    width: 25%;
+    height: 12px;
+}
+
+.bargray {
+    background-color: gray;
+    width: 25%;
+    height: 12px;
+    border-radius: 0px 25px 25px 0px;
+}
+
+.dtxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  opacity: 0.800000011920929;
+  text-align: left;
+}
+
+.dtxtbox {
+  background-color: rgba(76, 125, 240, 0.1000000014901161);
+  border-radius: 4px; 
+  padding: 2px;
+  text-align: center;
+}
+
+.trendtxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  opacity: 0.800000011920929;
+  text-align: left;
+  margin-left: 15px;
+}
+
+.HRtxt {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+
+.HRsubtxt {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 14px;
+  opacity: 0.300000011920929;
+  text-align: left;
+}
+
+.verticaltxt {
+  writing-mode: vertical-rl;
+  background-color: rgba(76, 125, 240, 0.1000000014901161);
+  border-radius: 4px; 
+  padding: 30px 5px 30px 5px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.rangeslider {
+  background-color: indianred;
+}
+
+@media screen and (max-width: 768px) {
+  .dropdownclass {
+    width: 100%;
+  }
+  .calclass {
+    width: 100%;
+  }
+}

@@ -1,0 +1,31 @@
+[
+
+    {
+        "session": "S# 254"
+    },
+    [
+        {
+            "sessions": "S# 251"
+        },
+        {
+            "sessions": "S# 252"
+        },
+        {
+            "sessions": "S# 253"
+        }
+    ],
+    {
+        "sessionval": "4.45",
+        "topicval": "2.31"
+    },
+    {
+        "class": "9th",
+        "subject": "Science",
+        "subsubject": "Physics",
+        "studio": "Krishna",
+        "studioteacher": "Vivek sharma",
+        "time": "08:32 am - 10:20 am",
+        "HR": "321"
+    }
+]
+

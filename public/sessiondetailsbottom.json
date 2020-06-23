@@ -1,0 +1,52 @@
+[
+    {
+        "qno": "Q4",
+        "question": "Line 80:33: img elements must have an alt prop, either with meaningful text, or an empty string for decorative images jsx-a11y/alt-text Line 90:33: img elements must have an alt prop, either with meaningful text, or an empty string for decorative images jsx-a11y/alt-text"
+
+    },      
+    [
+        {
+            "answeropt": "A",
+            "answer": "Anirudha Patro"
+        },
+        {
+            "answeropt": "B",
+            "answer": "B Rajender Naik"
+        },
+        {
+            "answeropt": "C",
+            "answer": "Shubham agarawal"
+        },
+        {
+            "answeropt": "D",
+            "answer": "Rapolu Ratankumar"
+        },
+        {
+            "answeropt": "E",
+            "answer": "Mayanki jaiswal"
+        },
+        {
+            "answeropt": "F",
+            "answer": "Vinay Kumar Kola"
+        }
+    ],
+    {
+        "skill": "Remember",
+        "difficulty": 4,
+        "course": "JEE15",
+        "author": "By: Govindaraj  - Anantapur, AP",
+        "questionno": "Q# 2343546",
+        "correctopt": "A",
+        "nearcorrectopt": "C",
+        "stackedchart" : [
+            {
+                "answerx": [39, 12, 30, 19],
+                "answery": [9, 12, 3, 11]
+            },
+            {
+                "HRx": [39, 12, 30, 19],
+                "HRy": [9, 12, 3, 13]
+            }
+        ]
+    }
+]

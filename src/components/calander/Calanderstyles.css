@@ -1,0 +1,14 @@
+input {
+    border: none;
+    text-align: center;
+    width: 120px;
+}
+
+.caltxt {
+    font-size: 12px;
+    margin-top: -4px;
+}
+
+.react-datepicker__tab-loop {
+    display: inline-block;
+}

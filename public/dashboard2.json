@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "value": "2.3",
+        "subject": "Maths",
+        "chartdata": [8, 10, 12, 27]
+    },
+    {
+        "id": 1,
+        "value": "4.3",
+        "subject": "English",
+        "chartdata": [5, 1, 12, 7]
+    },
+    {
+        "id": 2,
+        "value": "3.2",
+        "subject": "Telugu",
+        "chartdata": [6, 10, 1, 27]
+    },
+    {
+        "id": 3,
+        "value": "1.4",
+        "subject": "Social studies",
+        "chartdata": [9, 8, 12, 27]
+    },
+    {
+        "id": 4,
+        "value": "8.3",
+        "subject": "Hindhi",
+        "chartdata": [3, 4, 12, 3]
+    },
+    {
+        "id": 4,
+        "value": "4.3",
+        "subject": "Hindhi",
+        "chartdata": [2, 4, 10, 8]
+    }
+]
+
